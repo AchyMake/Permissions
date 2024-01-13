@@ -1,0 +1,8 @@
+name: Permissions
+version: '${project.version}'
+main: org.achymake.permissions.Permissions
+api-version: '1.13'
+prefix: Permissions
+load: STARTUP
+authors: [AchyMake]
+description: Adds Permissions to the Server
